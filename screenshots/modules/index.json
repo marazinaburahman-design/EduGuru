@@ -1,0 +1,560 @@
+[
+  {
+    "label": "Shared - site header",
+    "file": "shared-site-header.png",
+    "width": 678,
+    "height": 60
+  },
+  {
+    "label": "Shared - sign in and join card",
+    "file": "shared-sign-in-and-join-card.png",
+    "width": 227,
+    "height": 191
+  },
+  {
+    "label": "Shared - primary sidebar navigation",
+    "file": "shared-primary-sidebar-navigation.png",
+    "width": 231,
+    "height": 504
+  },
+  {
+    "label": "Shared - sidebar promote and app links",
+    "file": "shared-sidebar-promote-and-app-links.png",
+    "width": 231,
+    "height": 161
+  },
+  {
+    "label": "Shared - wallet card",
+    "file": "shared-wallet-card.png",
+    "width": 321,
+    "height": 70
+  },
+  {
+    "label": "Shared - quick access tiles",
+    "file": "shared-quick-access-tiles.png",
+    "width": 321,
+    "height": 434
+  },
+  {
+    "label": "Shared - more links",
+    "file": "shared-more-links.png",
+    "width": 321,
+    "height": 351
+  },
+  {
+    "label": "Shared - footer copyright",
+    "file": "shared-footer-copyright.png",
+    "width": 349,
+    "height": 70
+  },
+  {
+    "label": "Shared - mobile bottom navigation",
+    "file": "shared-mobile-bottom-navigation.png",
+    "width": 358,
+    "height": 54
+  },
+  {
+    "label": "home - What will you learn today?",
+    "file": "home-what-will-you-learn-today.png",
+    "width": 678,
+    "height": 224
+  },
+  {
+    "label": "home - For You Popular 🔥 Fire 🏛️ Institute",
+    "file": "home-for-you-popular-fire-institute.png",
+    "width": 678,
+    "height": 45
+  },
+  {
+    "label": "home - Guru Tests Mock exams & practice tests My School Classes",
+    "file": "home-guru-tests-mock-exams-practice-tests-my-school-classes.png",
+    "width": 678,
+    "height": 232
+  },
+  {
+    "label": "home - Popular Courses See all",
+    "file": "home-popular-courses-see-all.png",
+    "width": 678,
+    "height": 47
+  },
+  {
+    "label": "home - courses-grid",
+    "file": "home-courses-grid.png",
+    "width": 678,
+    "height": 846
+  },
+  {
+    "label": "home - load-sentinel",
+    "file": "home-load-sentinel.png",
+    "width": 678,
+    "height": 40
+  },
+  {
+    "label": "home - loading-more",
+    "file": "home-loading-more.png",
+    "width": 678,
+    "height": 60
+  },
+  {
+    "label": "home - course card 01 - -46% Complete Quran Learning Course (Tajweed Met",
+    "file": "home-course-card-01-46-complete-quran-learning-course-tajweed-met.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 02 - 🔥 Hot 30 Days Spoken English Course in Tamil – ",
+    "file": "home-course-card-02-hot-30-days-spoken-english-course-in-tamil.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 03 - -30% FREE PREVIEW Professional Graphic Design Ma",
+    "file": "home-course-card-03-30-free-preview-professional-graphic-design-ma.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 04 - 🎁 Free FREE PREVIEW Unit 10: Applied Biology (G",
+    "file": "home-course-card-04-free-free-preview-unit-10-applied-biology-g.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 05 - -11% web developement MOHAMED YOUSUF 0.0 0 LKR 1",
+    "file": "home-course-card-05-11-web-developement-mohamed-yousuf-0-0-0-lkr-1.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 06 - -55% AI FOR GOVERNMENT OFFICERS NAAS CAMPUS 0.0 ",
+    "file": "home-course-card-06-55-ai-for-government-officers-naas-campus-0-0.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 07 - -44% CapCut & Digital Marketing Basics MN.MOHAME",
+    "file": "home-course-card-07-44-capcut-digital-marketing-basics-mn-mohame.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 08 - -56% Complete Mobile Graphic Design Masterclass:",
+    "file": "home-course-card-08-56-complete-mobile-graphic-design-masterclass.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 09 - -33% English Reading & Writing Foundation Level ",
+    "file": "home-course-card-09-33-english-reading-writing-foundation-level.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 10 - -36% Complete A/L FATHIMA RUMAIZA 0.0 0 LKR 3,50",
+    "file": "home-course-card-10-36-complete-a-l-fathima-rumaiza-0-0-0-lkr-3-50.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 11 - -44% Complete Professional Photography & Visual ",
+    "file": "home-course-card-11-44-complete-professional-photography-visual.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "home - course card 12 - -30% NAATHIRA ACADEMY 🧑‍🎓 Complete G.C.E. A/L ",
+    "file": "home-course-card-12-30-naathira-academy-complete-g-c-e-a-l.png",
+    "width": 150,
+    "height": 271
+  },
+  {
+    "label": "browse - Discover & Learn Something New",
+    "file": "browse-discover-learn-something-new.png",
+    "width": 678,
+    "height": 208
+  },
+  {
+    "label": "browse - Courses Users",
+    "file": "browse-courses-users.png",
+    "width": 678,
+    "height": 48
+  },
+  {
+    "label": "browse - All Categories Filter",
+    "file": "browse-all-categories-filter.png",
+    "width": 678,
+    "height": 55
+  },
+  {
+    "label": "browse - All Courses",
+    "file": "browse-all-courses.png",
+    "width": 678,
+    "height": 45
+  },
+  {
+    "label": "browse - browse-grid",
+    "file": "browse-browse-grid.png",
+    "width": 678,
+    "height": 385
+  },
+  {
+    "label": "browse - browse-sentinel",
+    "file": "browse-browse-sentinel.png",
+    "width": 678,
+    "height": 40
+  },
+  {
+    "label": "Browse - filters menu open",
+    "file": "browse-filters-menu-open.png",
+    "width": 220,
+    "height": 352
+  },
+  {
+    "label": "Browse - categories menu open",
+    "file": "browse-categories-menu-open.png",
+    "width": 240,
+    "height": 468
+  },
+  {
+    "label": "menu - Welcome to EduGuru",
+    "file": "menu-welcome-to-eduguru.png",
+    "width": 678,
+    "height": 225
+  },
+  {
+    "label": "menu - QUICK ACCESS Home Categories My List Payment Portal EduG",
+    "file": "menu-quick-access-home-categories-my-list-payment-portal-edug.png",
+    "width": 678,
+    "height": 497
+  },
+  {
+    "label": "menu - Promote Institute badge · Fire courses · Ad promotion Do",
+    "file": "menu-promote-institute-badge-fire-courses-ad-promotion-do.png",
+    "width": 678,
+    "height": 179
+  },
+  {
+    "label": "menu - Browse All courses Help Get answers Contact Reach us Abo",
+    "file": "menu-browse-all-courses-help-get-answers-contact-reach-us-abo.png",
+    "width": 678,
+    "height": 378
+  },
+  {
+    "label": "menu - EduGuru v1.0 © 2025 EduGuru · Global Education Marketpla",
+    "file": "menu-eduguru-v1-0-2025-eduguru-global-education-marketpla.png",
+    "width": 678,
+    "height": 68
+  },
+  {
+    "label": "auth - EduGuru",
+    "file": "auth-eduguru.png",
+    "width": 678,
+    "height": 264
+  },
+  {
+    "label": "auth - Email or Phone Number Password Remember me Forgot passwo",
+    "file": "auth-email-or-phone-number-password-remember-me-forgot-passwo.png",
+    "width": 678,
+    "height": 326
+  },
+  {
+    "label": "auth - Create Account",
+    "file": "auth-create-account.png",
+    "width": 678,
+    "height": 231
+  },
+  {
+    "label": "Auth - sign in form",
+    "file": "auth-sign-in-form.png",
+    "width": 596,
+    "height": 272
+  },
+  {
+    "label": "Auth - account type selection",
+    "file": "auth-account-type-selection.png",
+    "width": 678,
+    "height": 231
+  },
+  {
+    "label": "Auth - student registration step one",
+    "file": "auth-student-registration-step-one.png",
+    "width": 1280,
+    "height": 900
+  },
+  {
+    "label": "about - About EduGuru",
+    "file": "about-about-eduguru.png",
+    "width": 678,
+    "height": 64
+  },
+  {
+    "label": "about - EduGuru Every great thing begins with a single conversat",
+    "file": "about-eduguru-every-great-thing-begins-with-a-single-conversat.png",
+    "width": 646,
+    "height": 278
+  },
+  {
+    "label": "about - 📖 OUR STORY “ On 5 November 2025, a 17-year-old photogr",
+    "file": "about-our-story-on-5-november-2025-a-17-year-old-photogr.png",
+    "width": 646,
+    "height": 673
+  },
+  {
+    "label": "about - 💡 THE VISIONARY Dr. Ilm Rifaz The man who planted the s",
+    "file": "about-the-visionary-dr-ilm-rifaz-the-man-who-planted-the-s.png",
+    "width": 646,
+    "height": 407
+  },
+  {
+    "label": "about - FOUNDER & CREATOR Ishaq Mohamed Founder · Creator · Deve",
+    "file": "about-founder-creator-ishaq-mohamed-founder-creator-deve.png",
+    "width": 646,
+    "height": 629
+  },
+  {
+    "label": "about - The Hearts Behind EduGuru",
+    "file": "about-the-hearts-behind-eduguru.png",
+    "width": 646,
+    "height": 301
+  },
+  {
+    "label": "about - The Journey",
+    "file": "about-the-journey.png",
+    "width": 646,
+    "height": 305
+  },
+  {
+    "label": "about - Our Vision",
+    "file": "about-our-vision.png",
+    "width": 646,
+    "height": 217
+  },
+  {
+    "label": "about - Why Choose EduGuru",
+    "file": "about-why-choose-eduguru.png",
+    "width": 646,
+    "height": 286
+  },
+  {
+    "label": "about - Explore Courses Connect With Us",
+    "file": "about-explore-courses-connect-with-us.png",
+    "width": 646,
+    "height": 44
+  },
+  {
+    "label": "about - EduGuru · Born in Kattankudy 🇱🇰 · Built with ❤ for eve",
+    "file": "about-eduguru-born-in-kattankudy-built-with-for-eve.png",
+    "width": 678,
+    "height": 48
+  },
+  {
+    "label": "terms - Terms & Conditions",
+    "file": "terms-terms-conditions.png",
+    "width": 678,
+    "height": 194
+  },
+  {
+    "label": "terms - 1. About EduGuru",
+    "file": "terms-1-about-eduguru.png",
+    "width": 678,
+    "height": 1611
+  },
+  {
+    "label": "terms - 1. About EduGuru EduGuru is an online learning platf",
+    "file": "terms-1-about-eduguru-eduguru-is-an-online-learning-platf.png",
+    "width": 646,
+    "height": 89
+  },
+  {
+    "label": "terms - 2. Your Account You must be 13 or older. Under 18s n",
+    "file": "terms-2-your-account-you-must-be-13-or-older-under-18s-n.png",
+    "width": 646,
+    "height": 124
+  },
+  {
+    "label": "terms - 3. Students & Teachers Students enroll in courses or",
+    "file": "terms-3-students-teachers-students-enroll-in-courses-or.png",
+    "width": 646,
+    "height": 114
+  },
+  {
+    "label": "terms - 4. Payments & Coins Prices are in Sri Lankan Rupees ",
+    "file": "terms-4-payments-coins-prices-are-in-sri-lankan-rupees.png",
+    "width": 646,
+    "height": 180
+  },
+  {
+    "label": "terms - 5. Content Rules Course and test content is for enro",
+    "file": "terms-5-content-rules-course-and-test-content-is-for-enro.png",
+    "width": 646,
+    "height": 124
+  },
+  {
+    "label": "terms - 6. What You Must Not Do Post false, harmful, or abus",
+    "file": "terms-6-what-you-must-not-do-post-false-harmful-or-abus.png",
+    "width": 646,
+    "height": 185
+  },
+  {
+    "label": "terms - 7. Ownership The EduGuru name, logo, and design belo",
+    "file": "terms-7-ownership-the-eduguru-name-logo-and-design-belo.png",
+    "width": 646,
+    "height": 89
+  },
+  {
+    "label": "terms - 8. Liability EduGuru is a platform, not the teacher.",
+    "file": "terms-8-liability-eduguru-is-a-platform-not-the-teacher.png",
+    "width": 646,
+    "height": 89
+  },
+  {
+    "label": "terms - 9. Changes & Law We may update these terms occasiona",
+    "file": "terms-9-changes-law-we-may-update-these-terms-occasiona.png",
+    "width": 646,
+    "height": 89
+  },
+  {
+    "label": "terms - 10. Contact Questions? Reach us: Email: eduguru.app@",
+    "file": "terms-10-contact-questions-reach-us-email-eduguru-app.png",
+    "width": 646,
+    "height": 163
+  },
+  {
+    "label": "privacy - Privacy Policy",
+    "file": "privacy-privacy-policy.png",
+    "width": 678,
+    "height": 194
+  },
+  {
+    "label": "privacy - 1. What We Collect",
+    "file": "privacy-1-what-we-collect.png",
+    "width": 678,
+    "height": 1382
+  },
+  {
+    "label": "privacy - 1. What We Collect Your name, email, and phone numbe",
+    "file": "privacy-1-what-we-collect-your-name-email-and-phone-numbe.png",
+    "width": 646,
+    "height": 185
+  },
+  {
+    "label": "privacy - 2. How We Use It To run your account and process enr",
+    "file": "privacy-2-how-we-use-it-to-run-your-account-and-process-enr.png",
+    "width": 646,
+    "height": 157
+  },
+  {
+    "label": "privacy - 3. Keeping Your Data Safe Your information is stored",
+    "file": "privacy-3-keeping-your-data-safe-your-information-is-stored.png",
+    "width": 646,
+    "height": 89
+  },
+  {
+    "label": "privacy - 4. On Your Device We use your browser's storage to k",
+    "file": "privacy-4-on-your-device-we-use-your-browser-s-storage-to-k.png",
+    "width": 646,
+    "height": 89
+  },
+  {
+    "label": "privacy - 5. Who Can See Your Info Teachers see your name and ",
+    "file": "privacy-5-who-can-see-your-info-teachers-see-your-name-and.png",
+    "width": 646,
+    "height": 124
+  },
+  {
+    "label": "privacy - 6. Your Rights You can ask us to view, correct, or d",
+    "file": "privacy-6-your-rights-you-can-ask-us-to-view-correct-or-d.png",
+    "width": 646,
+    "height": 114
+  },
+  {
+    "label": "privacy - 7. Children EduGuru is for users aged 13 and above. ",
+    "file": "privacy-7-children-eduguru-is-for-users-aged-13-and-above.png",
+    "width": 646,
+    "height": 89
+  },
+  {
+    "label": "privacy - 8. Changes & Contact We may update this policy occas",
+    "file": "privacy-8-changes-contact-we-may-update-this-policy-occas.png",
+    "width": 646,
+    "height": 187
+  },
+  {
+    "label": "contact - Connect With Us",
+    "file": "contact-connect-with-us.png",
+    "width": 678,
+    "height": 216
+  },
+  {
+    "label": "contact - PHONE / WHATSAPP +94787929233 Call EMAIL eduguru.app@gma",
+    "file": "contact-phone-whatsapp-94787929233-call-email-eduguru-app-gma.png",
+    "width": 646,
+    "height": 158
+  },
+  {
+    "label": "contact - Follow Us",
+    "file": "contact-follow-us.png",
+    "width": 678,
+    "height": 340
+  },
+  {
+    "label": "contact - Operating Hours Monday – Saturday · 9:00 AM – 9:00 PM Su",
+    "file": "contact-operating-hours-monday-saturday-9-00-am-9-00-pm-su.png",
+    "width": 646,
+    "height": 129
+  },
+  {
+    "label": "help-support - Help & Support",
+    "file": "help-support-help-support.png",
+    "width": 678,
+    "height": 192
+  },
+  {
+    "label": "help-support - 📚 Browse Help 🎫 Contact Support",
+    "file": "help-support-browse-help-contact-support.png",
+    "width": 646,
+    "height": 44
+  },
+  {
+    "label": "help-support - hs-body",
+    "file": "help-support-hs-body.png",
+    "width": 678,
+    "height": 426
+  },
+  {
+    "label": "resources - Resources",
+    "file": "resources-resources.png",
+    "width": 678,
+    "height": 160
+  },
+  {
+    "label": "resources - 📚 Past Papers 📝 Model Papers 📄 Notes 📘 Textbooks 📗 ",
+    "file": "resources-past-papers-model-papers-notes-textbooks.png",
+    "width": 678,
+    "height": 454
+  },
+  {
+    "label": "download-app - dl-back",
+    "file": "download-app-dl-back.png",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "label": "download-app - dl-logo-wrap",
+    "file": "download-app-dl-logo-wrap.png",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "label": "download-app - EduGuru",
+    "file": "download-app-eduguru.png",
+    "width": 144,
+    "height": 37
+  },
+  {
+    "label": "download-app - v1.0 VERSION … SIZE Android PLATFORM Checking… Share App",
+    "file": "download-app-v1-0-version-size-android-platform-checking-share-app.png",
+    "width": 360,
+    "height": 241
+  }
+]
